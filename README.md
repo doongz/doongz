@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![dowalle](https://github-readme-stats.vercel.app/api?username=dowalle&repo=algo&show_icons=true&include_all_commits=true&hide=contribs&theme=solarized-light)
+
 <!--
 **dowalle/dowalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

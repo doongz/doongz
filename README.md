@@ -4,7 +4,6 @@
 
 - 🐥 [ChickenFarm](https://github.com/dowalle/ChickenFarm) 统计购买和卖出操作，分析持仓和收益，爬取基金净值，各种定投算法回测分析
 - 📖 [algo](https://github.com/dowalle/algo) 算法｜数据结构｜图论｜数学｜面试｜C++｜Python｜Golang
-- 🍖 [life](https://github.com/dowalle/life) 菜谱｜咖啡｜威士忌｜茶｜电影
 
 
 <!--

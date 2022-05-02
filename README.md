@@ -2,9 +2,18 @@
 
 ### Hi there 👋
 
-- 🐥 [ChickenFarm](https://github.com/dowalle/ChickenFarm) 统计购买和卖出操作，分析持仓和收益，爬取基金净值，各种定投算法回测分析
-- 📖 [algo](https://github.com/dowalle/algo) 算法｜数据结构｜图论｜数学｜C++｜Golang｜Python｜机组｜系统｜网络｜存储
+#### 📖 [algo](https://github.com/dowalle/algo)
 
+- 「算法」`数据结构`  `算法基础`  `动态规划`  `图论`  `计算机数学算法`
+- 「技能」`C++`  `Golang`  `Python`  `开发软件`  `常用CLI`  `Markdown`  `LaTeX`  `Mermaid`
+- 「知识」`计算机组成`  `操作系统`  `计算机网络`  `数据&存储`  `容器技术`  `设计模式`
+- 「数学」`微积分`  `线性代数`
+
+#### 🐥 [ChickenFarm](https://github.com/dowalle/ChickenFarm)
+
+- 「个人数据分析」  `统计购买和卖出操作`  `分析持仓和收益`
+- 「爬取基金净值」
+- 「定投回测分析」  `各类定投算法`  `生成投资策略`
 
 <!--
 **dowalle/dowalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

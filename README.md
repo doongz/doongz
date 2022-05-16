@@ -5,8 +5,9 @@
 #### 📖 [algo](https://github.com/dowalle/algo)
 
 - 「算法」`数据结构`  `算法基础`  `动态规划`  `图论`  `计算机数学算法`
+- 「课程」`MIT 6.s081`  `MIT 6.824`  `NJU os`
 - 「技能」`C++`  `Golang`  `Python`  `开发软件`  `常用CLI`  `Markdown`  `LaTeX`  `Mermaid`
-- 「知识」`计算机组成`  `操作系统`  `计算机网络`  `数据&存储`  `容器技术`  `设计模式`
+- 「知识」`计算机组成`  `操作系统`  `计算机网络`  `数据&存储`  `容器技术`
 - 「数学」`微积分`  `线性代数`
 
 #### 🐥 [ChickenFarm](https://github.com/dowalle/ChickenFarm)

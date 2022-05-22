@@ -16,6 +16,10 @@
 - 「爬取基金净值」
 - 「定投回测分析」  `各类定投算法`  `生成投资策略`
 
+#### 📘 [xv6-labs-2020](https://github.com/dowalle/xv6-labs-2020)
+
+- MIT 6.s081 实验记录
+
 <!--
 **dowalle/dowalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

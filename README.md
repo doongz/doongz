@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-#### 📖 [algo](https://github.com/doongz/notes)
+#### 📖 [notes](https://github.com/doongz/notes)
 
 > 学习 CS 以来的一些笔记
 

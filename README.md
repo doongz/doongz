@@ -20,6 +20,10 @@
 
 - MIT 6.s081 实验记录
 
+#### 📗 [os-workbench-2022](https://github.com/doongz/os-workbench-2022)
+
+- 南京大学 操作系统：设计与实现 实验记录
+
 <!--
 **dowalle/dowalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -12,7 +12,9 @@
 - 「知识」`计算机组成`  `操作系统`  `计算机网络`  `数据&存储`
 - 「数学」`微积分`  `线性代数`
 
-#### 📗 [os workbench](https://github.com/doongz/os-workbench)
+#### 📗 [os-workbench](https://github.com/doongz/os-workbench)
+
+- OS 相关工具、库、实现
 
 #### 🐥 [ChickenFarm](https://github.com/doongz/ChickenFarm)
 

@@ -12,6 +12,8 @@
 - 「知识」`计算机组成`  `操作系统`  `计算机网络`  `数据&存储`
 - 「数学」`微积分`  `线性代数`
 
+#### 📗 [os workbench](https://github.com/doongz/os-workbench)
+
 #### 🐥 [ChickenFarm](https://github.com/doongz/ChickenFarm)
 
 - 数据分析，定投回测
@@ -19,10 +21,6 @@
 #### 📘 [xv6-labs-2020](https://github.com/doongz/xv6-labs-2020)
 
 - MIT 6.s081 实验记录
-
-#### 📗 [os-workbench-2022](https://github.com/doongz/os-workbench-2022)
-
-- 南京大学 操作系统：设计与实现 实验记录
 
 <!--
 **dowalle/dowalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

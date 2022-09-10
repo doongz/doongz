@@ -14,7 +14,8 @@
 
 #### 📗 [os-workbench](https://github.com/doongz/os-workbench)
 
-- OS 相关工具、库、实现
+- `打印进程树(pstree)`  `线程库(thread)`  `协程库(libco)`
+- `Profiler(sperf)`  `C Real-Eval-Print-Loop(crepl)`  `File Recovery(frecov)`
 
 #### 🐥 [ChickenFarm](https://github.com/doongz/ChickenFarm)
 

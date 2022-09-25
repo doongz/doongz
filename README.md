@@ -7,23 +7,19 @@
 > 学习 CS 以来的一些笔记
 
 - 「算法」`数据结构`  `算法基础`  `动态规划`  `图论`  `计算机数学算法`
-- 「课程」`MIT 6.s081`  `NJU OS`  `MIT 6.824`  `CMU 15-445`
 - 「技能」`语言`  `开发软件`  `常用CLI`  `写作`
 - 「知识」`计算机组成`  `操作系统`  `计算机网络`  `数据&存储`
 - 「数学」`微积分`  `线性代数`
 
-#### 📗 [os-workbench](https://github.com/doongz/os-workbench)
+#### 📗 课程
 
-- `打印进程树(pstree)`  `线程库(thread)`  `协程库(libco)`
-- `Profiler(sperf)`  `C Real-Eval-Print-Loop(crepl)`  `File Recovery(frecov)`
-
-#### 🐥 [ChickenFarm](https://github.com/doongz/ChickenFarm)
-
-- 数据分析，定投回测
-
-#### 📘 [xv6-labs-2020](https://github.com/doongz/xv6-labs-2020)
-
-- MIT 6.s081 实验记录
+- [MIT-6.S081 Operating Systems Engineering](https://github.com/doongz/mit-6.s081)
+- [南京大学 操作系统：设计与实现 (2022 春季学期)](https://github.com/doongz/os-workbench)
+  - `打印进程树(pstree)`  `线程库(thread)`  `协程库(libco)`
+  - `Profiler(sperf)`  `C Real-Eval-Print-Loop(crepl)`  `File Recovery(frecov)`
+- [MIT-6.824 Distributed Systems](https://github.com/doongz/mit-6.824)
+  - `MapReduce`  `Raft`  `Fault-tolerant Key/Value Service`
+  - `Sharded Key/Value Service`
 
 <!--
 **dowalle/dowalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

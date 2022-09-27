@@ -20,6 +20,7 @@
 - [MIT-6.824 Distributed Systems](https://github.com/doongz/mit-6.824)
   - `MapReduce`  `Raft`  `Fault-tolerant Key/Value Service`
   - `Sharded Key/Value Service`
+- [Harvard CS50’s Introduction to AI with Python](https://github.com/doongz/cs50s)
 
 <!--
 **dowalle/dowalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -13,14 +13,14 @@
 
 #### 📗 课程
 
-- [MIT-6.S081 Operating Systems Engineering](https://github.com/doongz/mit-6.s081)
-- [南京大学 操作系统：设计与实现 (2022 春季学期)](https://github.com/doongz/os-workbench)
-  - `打印进程树(pstree)`  `线程库(thread)`  `协程库(libco)`
-  - `Profiler(sperf)`  `C Real-Eval-Print-Loop(crepl)`  `File Recovery(frecov)`
+- [Harvard CS50’s Introduction to AI with Python](https://github.com/doongz/cs50s)
 - [MIT-6.824 Distributed Systems](https://github.com/doongz/mit-6.824)
   - `MapReduce`  `Raft`  `Fault-tolerant Key/Value Service`
   - `Sharded Key/Value Service`
-- [Harvard CS50’s Introduction to AI with Python](https://github.com/doongz/cs50s)
+- [南京大学 操作系统：设计与实现](https://github.com/doongz/os-workbench)
+  - `打印进程树(pstree)`  `线程库(thread)`  `协程库(libco)`
+  - `Profiler(sperf)`  `C Real-Eval-Print-Loop(crepl)`  `File Recovery(frecov)`
+- [MIT-6.S081 Operating Systems Engineering](https://github.com/doongz/mit-6.s081)
 
 <!--
 **dowalle/dowalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

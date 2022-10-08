@@ -13,7 +13,7 @@
 
 #### 📗 课程
 
-- [Harvard CS50’s Introduction to AI with Python](https://github.com/doongz/cs50s)
+- [Harvard CS50’s Introduction to AI with Python](https://github.com/doongz/cs50-ai)
 - [MIT-6.824 Distributed Systems](https://github.com/doongz/mit-6.824)
   - `MapReduce`  `Raft`  `Fault-tolerant Key/Value Service`
   - `Sharded Key/Value Service`

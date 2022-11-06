@@ -11,9 +11,10 @@
 - 「知识」`计算机组成`  `操作系统`  `计算机网络`  `数据&存储`
 - 「数学」`微积分`  `线性代数`
 
-#### 📗 课程
+#### 📗 courses
 
 - [Harvard CS50’s Introduction to AI with Python](https://github.com/doongz/cs50-ai)
+  - `Search`  `Knowledge`  `Uncertainty`  `Optimization`  `Learning`  `Neural Networks`  `Language`
 - [MIT-6.824 Distributed Systems](https://github.com/doongz/mit-6.824)
   - `MapReduce`  `Raft`  `Fault-tolerant Key/Value Service`
   - `Sharded Key/Value Service`

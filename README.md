@@ -22,6 +22,7 @@
   - `打印进程树(pstree)`  `线程库(thread)`  `协程库(libco)`
   - `Profiler(sperf)`  `C Real-Eval-Print-Loop(crepl)`  `File Recovery(frecov)`
 - [MIT-6.S081 Operating Systems Engineering](https://github.com/doongz/mit-6.s081)
+  - `syscall`  `page table`  `trap`  `page fault`  `interrupt`  `lock`  `Thread switching`  `sleep&wakeup`  `file system`  `inode`  `log`  `Monolithic/Micro kernel`  `Virtual Machine`  `HLL kernel`  `Networking`  `Meltdown`  `RCU`
 
 <!--
 **dowalle/dowalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

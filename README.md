@@ -12,7 +12,11 @@
 - 「数学」`微积分`  `线性代数`
 
 #### 📗 courses
+
+- [Stanford CS229: Machine Learning](https://github.com/doongz/cs229)
+  - 「学习中」
 - [中国科学院 智能计算系统](https://github.com/doongz/aics)
+  - `深度学习算法`  `深度学习编程框架`  `深度学习处理器原理和架构`  `智能编程语言`
 - [Harvard CS50’s Introduction to AI with Python](https://github.com/doongz/cs50-ai)
   - `Search`  `Knowledge`  `Uncertainty`  `Optimization`  `Learning`  `Neural Networks`  `Language`
 - [MIT-6.824 Distributed Systems](https://github.com/doongz/mit-6.824)

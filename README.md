@@ -16,11 +16,11 @@
 > 上过的一些课
 
 - [Stanford CS229: Machine Learning](https://github.com/doongz/cs229)
-  - Supervised learning  `Linear regression`  `Classification and logistic regression`  `Generalized linear models`  `Generative learning algorithms`  `Kernel methods`  `Support vector machines`
-  - Deep learning  `Neural networks`  `Backpropagation`  `Vectorization over training examples`
-  - Generalization and regularization
-  - Unsupervised learning  `Clustering and the k-means algorithm`  `EM algorithms`  `Principal components analysis`  `Independent components analysis`  `Self-supervised learning`  `foundation models`
-  - Reinforcement Learning and Control
+  - 「Supervised learning」`Linear regression`  `Classification and logistic regression`  `Generalized linear models`  `Generative learning algorithms`  `Kernel methods`  `Support vector machines`
+  - 「Deep learning」`Neural networks`  `Backpropagation`  `Vectorization over training examples`
+  - 「Generalization and regularization」
+  - 「Unsupervised learning」`Clustering and the k-means algorithm`  `EM algorithms`  `Principal components analysis`  `Independent components analysis`  `Self-supervised learning`  `foundation models`
+  - 「Reinforcement Learning and Control」
 - [中国科学院 智能计算系统](https://github.com/doongz/aics)
   - `深度学习算法`  `深度学习编程框架`  `深度学习处理器原理和架构`  `智能编程语言`
 - [Harvard CS50’s Introduction to AI with Python](https://github.com/doongz/cs50-ai)

@@ -7,7 +7,7 @@
 > 写的一些笔记
 
 - 「Algorithm」`数据结构`  `算法基础`  `动态规划`  `图论`  `数学`
-- 「Skill」`C/C++`  `Python`  `Golang`  `CLI`  `Toolchain`  `Markdown`  `LaTex`
+- 「Skill」`C/C++`  `Python`  `Golang`  `CLI`  `Toolchain`  `Markdown`  `LaTeX`
 - 「Knowledge」`计算机组成`  `操作系统`  `计算机网络`  `容器`
 - 「Math」`differential and integral calculus`  `linear algebra`
 

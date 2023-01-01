@@ -8,13 +8,15 @@
 
 - 「Algorithm」`数据结构`  `算法基础`  `动态规划`  `图论`  `数学`
 - 「Skill」`C/C++`  `Python`  `Golang`  `CLI`  `Toolchain`  `Markdown`  `LaTeX`
-- 「Knowledge」`计算机组成`  `操作系统`  `计算机网络`  `容器`
+- 「Knowledge」`IC`  `Composition`  `OS`  `Network`  `Docker`
 - 「Math」`differential and integral calculus`  `linear algebra`
 
 #### 📗 courses
 
 > 上过的一些课
 
+- [Machine Learning Compilation](https://github.com/doongz/mlc-ai)
+  - `机器学习编译`  `张量程序抽象`  `端到端模型执行`  `自动化程序优化`  `与机器学习框架的整合`  `GPU硬件加速`  `计算图优化`
 - [Stanford CS229: Machine Learning](https://github.com/doongz/cs229)
   - 「Supervised learning」`Linear regression`  `Classification and logistic regression`  `Generalized linear models`  `Generative learning algorithms`  `Kernel methods`  `Support vector machines`
   - 「Deep learning」`Neural networks`  `Backpropagation`  `Vectorization over training examples`

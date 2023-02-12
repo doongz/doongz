@@ -31,7 +31,7 @@
 - [MIT-6.824 Distributed Systems「Robert Morris」](https://github.com/doongz/mit-6.824)
   - `MapReduce`  `Raft`  `Fault-tolerant Key/Value Service`
   - `Sharded Key/Value Service`
-- [南京大学 操作系统：设计与实现「蒋炎岩」](https://github.com/doongz/os-workbench)
+- [南京大学 操作系统：设计与实现「蒋炎岩」](https://github.com/doongz/os-nju/)
   - `打印进程树(pstree)`  `线程库(thread)`  `协程库(libco)`
   - `Profiler(sperf)`  `C Real-Eval-Print-Loop(crepl)`  `File Recovery(frecov)`
 - [MIT-6.S081 Operating Systems Engineering「Robert Morris, Frans Kaashoek」](https://github.com/doongz/mit-6.s081)

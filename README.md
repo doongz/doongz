@@ -11,6 +11,14 @@
 - 「Knowledge」`IC`  `Composition`  `OS`  `Network`  `Docker`
 - 「Math」`differential and integral calculus`  `linear algebra`
 
+#### 🐣 [ChickenFarm](https://github.com/doongz/ChickenFarm)
+
+> 基金 / ETF分析
+
+- 统计购买和卖出操作，分析持仓和收益
+- 爬取基金 / ETF净值
+- 使用定投算法回测收益
+
 #### 📗 courses
 
 > 上过的一些课
